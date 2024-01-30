@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Bruno Oliveira 👋
 
-Sou um estudante de Engenharia de Computação pela Universidade Presbiteriana Mackenzie. Comecei área de informática desde criança, esporadicamente e por brincadeira, criando um servidor em java para jogar minecraft com meus amigos.Comecei a buscar uma formação e imaginar minha carreira na área da tecnologia no ano de 2023, que entrei na faculdade. Atualmente estou focado em aprimorar meus conhecimentos existentes, e explorar novas tecnologias nas áreas de desenvolvimento de software, ciências de dados, engenharia de IA e cloud computing.
+Sou um estudante de Engenharia de Computação pela Universidade Presbiteriana Mackenzie. Comecei na área de informática desde criança, esporadicamente e por brincadeira, criando um servidor em java para jogar minecraft com meus amigos. Comecei a buscar uma formação e imaginar minha carreira na área da tecnologia no ano de 2023, que entrei na faculdade. Atualmente estou focado em aprimorar meus conhecimentos existentes, e explorar novas tecnologias nas áreas de desenvolvimento de software, ciências de dados, engenharia de IA e cloud computing.
 
 
 ## Onde pode me encontrar
