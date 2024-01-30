@@ -3,7 +3,7 @@
 Sou um estudante de Engenharia de Computação pela Universidade Presbiteriana Mackenzie. Comecei área de informática desde criança, esporadicamente e por brincadeira, criando um servidor em java para jogar minecraft com meus amigos.Comecei a buscar uma formação e imaginar minha carreira na área da tecnologia no ano de 2023, que entrei na faculdade. Atualmente estou focado em aprimorar meus conhecimentos existentes, e explorar novas tecnologias nas áreas de desenvolvimento de software, ciências de dados, engenharia de IA e cloud computing.
 
 
-## Onde pode me encontrar:
+## Onde pode me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3670A0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira0/)
 [![Gmail](https://img.shields.io/badge/Gmail-3670A0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunomo2000@gmail.com)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-3670A0?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/@kobajk)
