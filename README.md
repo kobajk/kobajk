@@ -6,7 +6,7 @@ Sou um estudante de Engenharia de Computação pela Universidade Presbiteriana M
 ## Onde pode me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3670A0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira0/)
 [![Gmail](https://img.shields.io/badge/Gmail-3670A0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunomo2000@gmail.com)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-3670A0?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/@kobajk)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-3670A0?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/kobajk)
 
 ## Principais conhecimentos
 ### Linguagens sólidas
