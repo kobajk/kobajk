@@ -26,4 +26,4 @@ Sou um estudante de Engenharia de Computação pela Universidade Presbiteriana M
 ## Principais Projetos
 
 [![Crud com NextJS](https://github-readme-stats.vercel.app/api/pin/?username=kobajk&repo=algoritmos&bg_color=3670A0&border_color=3670A0&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=FFF)](https://github.com/kobajk/algoritmos)
-[![Crud com NextJS](https://github-readme-stats.vercel.app/api/pin/?username=kobajk&repo=datapy_mack&bg_color=3670A0&border_color=3670A0&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=FFF)](https://github.com/kobajk/datapy_mack)
+[![Crud com NextJS](https://github-readme-stats.vercel.app/api/pin/?username=kobajk&repo=datapy_mack&bg_color=3670A0&border_color=3670A0&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=FFF)](https://github.com/kobajk/POO_2024-02)
